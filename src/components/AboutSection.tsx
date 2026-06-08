@@ -41,10 +41,10 @@ AI & Tech Enthusiast
 </p>
 
 <p className="text-sm text-muted-foreground">
-First-Year Undergraduate
+Second-Year Undergraduate
 </p>
 <p className="text-sm text-muted-foreground">
-Exploring Modern Technologies
+Competitive programming
 </p>
 <p className="text-sm text-muted-foreground">
 Karpagam College of Engineering
